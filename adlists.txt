@@ -7,7 +7,6 @@ https://hole.cert.pl/domains/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hostsfile.org/Downloads/hosts.txt
-https://mirror1.malwaredomains.com/files/justdomains
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
